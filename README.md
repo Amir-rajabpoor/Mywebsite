@@ -3,9 +3,9 @@
 #### Technical Skills:  MATLAB, Python, FEM, Phononic Crystal
 
 ## Education
-- Ph.D., Mechanical Engineer | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D., Mechanical Engineer | The University of Vermont (_Jan 2022 to Current_)								       		
+- M.S., Mechanical Engineer	| The University of Tehran (_December 2019_)	 			        		
+- B.S., Mechanical Engineer | The University of Razi (_May 2017_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
