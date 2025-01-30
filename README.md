@@ -3,14 +3,18 @@
 #### Technical Skills:  MATLAB, Python, FEM, Phononic Crystal
 
 ## Education
-- Ph.D., Mechanical Engineer | The University of Vermont (_Jan 2022 to Current_)								       		
+- Ph.D., Mechanical Engineer | The University of Vermont (_Jan 2022 to Present_)								       		
 - M.S., Mechanical Engineer	| The University of Tehran (_December 2019_)	 			        		
 - B.S., Mechanical Engineer | The University of Razi (_May 2017_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**University of Vermont- Research Assistant **   (_Jan 2022 to Present_)	                                                  
+    
+• Conducted vibrational analysis using a laser vibrometer on Metamaterials fabricated as part of research 
+projects 
+• Designed and tested experimental mechanical Metamaterials, integrating theoretical and simulation 
+models with practical outcomes 
+• Teaching assistant in the course Energy Methods in Solid Mechanics 
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
