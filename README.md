@@ -46,12 +46,12 @@
 - Wave propagation
 - Vibrational analysis
 - Mechanical simulations
-## Research Interests
-- Metamaterials
-- Wave propagation
-- Vibrational analysis
-- Mechanical simulations
-
+- FEM
+- Data Science
+- 
+## Talks & Lectures
+- Poster Presentaion - Structural Health Monitoring, Fall 2021
+- Topological Phononic Crystal - Structural Health Monitoring, Fall 2021
 ## Publications
 - Rajabpoor Alisepahi, A.; Ma, J. In-Gap Edge and Domain-Wall States in Largely Perturbed Phononic Su–Schrieffer–Heeger Lattices. *Crystals* 2024, 14, 102.  
 - Rajabpoor Alisepahi, A., Sarkar, S., Sun, K. et al. Breakdown of conventional winding number calculation in one-dimensional lattices with interactions beyond nearest neighbors. *Commun Phys* 6, 334 (2023).  
@@ -93,13 +93,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+
 
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
