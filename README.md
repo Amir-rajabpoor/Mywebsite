@@ -7,8 +7,9 @@
 ## About Me  
 I am a **Ph.D. researcher in Mechanical Engineering** at the **University of Vermont**, specializing in **metamaterials, phononic crystals, and wave propagation**. My research focuses on **topological phononic band structures, mechanical wave control, and computational solid mechanics**. With expertise in **finite element modeling (FEM), vibrational analysis, and machine learning applications in engineering**, I strive to bridge the gap between theory and experimentation.  
 
-I have extensive experience in **computational modeling, laser vibrometry, and metamaterial fabrication**. My goal is to **develop novel metamaterial structures for applications in energy harvesting, wave filtering, and noise reduction**.  
----
+I have extensive experience in **computational modeling, laser vibrometry, and metamaterial fabrication**. My goal is to **develop novel metamaterial structures for applications in energy harvesting, wave filtering, and noise reduction**. 
+
+----
 
 ## Work Experience  
 
