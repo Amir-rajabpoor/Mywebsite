@@ -75,6 +75,18 @@
 - Investigation of the effect of different boundary conditions in natural frequency of composite Skew Nanoplates embedded in elastic medium using GDQ method.  
 - Modeling the elastic plastic buckling of circular plates with variable thickness and investigating different parameters.  
 
+SKILLS 
+•	Experienced with Laser Vibrometer in Complex of metamaterials Lab
+•	Experienced in Machine Learning tools such as TensorFlow and PyTorch
+•	Proficient in COMSOL, Ansys, SolidWorks, Abaqus  
+•	Skilled in MATLAB, Python
+•	Experienced with Molecular Dynamics
+•	Experienced in the fields of MEMS & NEMS  
+•	Proficient in numerical methods especially finite element and GDQ methods  
+•	Knowledgeable in Mechanical Equipment Design and Functional Analysis
+•	Skilled in Interpreting Engineering Standards, Specifications, and Drawings
+•	Familiar with Industrial Drawing and Relevant Standards
+•	Familiar with CNC Machine 
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
