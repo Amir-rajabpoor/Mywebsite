@@ -90,19 +90,39 @@ I have extensive experience in **computational modeling, laser vibrometry, and m
 ---
 ## Academic Experience  
 
-- **Course Project:** Predicting soil parameters with Counter-propagation Method.
- ![P1](Splitted_OR10_Prediction+test.jpg)  
-- **Course Project:** Predicting Car Accident Severity in Vermont using Environmental and Ambient Factors. 
-- **Course Project:** Spatio-temporal modeling of malaria prevalence using the R-INLA package and the SPDE approach.  
-- **Course Project:** Study of Phonon dispersion diagram of Graphene sheet using Molecular Dynamics: Impact of Temperature.
--- This project employs multiscale simulation techniques within the LAMMPS molecular dynamics framework to find the band structure, exploring the influence of temperature on  graphene's phonon dispersion. Utilizing a Tersoff potential, the study investigates vibrational properties, emphasizing the effect of temperature variations.
-   ![P3](P3.png) 
-- **Course Project:** An Attempt at Quantifying Antisemitism on Twitter; an Exploration in the Perils of Text Classification and Annotation Schemes.  
-- **Investigation of buckling of FG Nano-plates** using the finite element method based on nonlocal theory.  
-- **Investigation of vibrations of FG Nano-plates** based on couple stress theory and using the finite element method.  
-- **Worked on the battery bus project** at the University of Tehran.  
-- **Investigated the effect of different boundary conditions** on the natural frequency of composite Skew Nanoplates embedded in elastic medium using the GDQ method.  
-- **Modeled the elastic-plastic buckling of circular plates** with variable thickness and investigated different parameters.  
+- **Predicting Soil Parameters Using the Counter-Propagation Method**  
+  Developed a machine learning model to predict soil parameters using counter-propagation neural networks.  
+  ![P1](Splitted_OR10_Prediction+test.jpg)  
+
+- **Predicting Car Accident Severity in Vermont**  
+  Analyzed the severity of car accidents based on **environmental and ambient factors** using machine learning techniques.  
+
+- **Spatio-Temporal Modeling of Malaria Prevalence**  
+  Utilized the **R-INLA package and SPDE approach** to develop predictive models for malaria spread.  
+
+- **Phonon Dispersion in Graphene Sheets: Impact of Temperature**  
+  - Employed **multiscale simulation techniques** within the **LAMMPS molecular dynamics framework** to compute the phonon band structure of graphene.  
+  - Investigated the effect of **temperature variations** on phonon dispersion using the **Tersoff potential**.  
+  - Examined vibrational properties and phononic behavior at different thermal conditions.  
+  ![P3](P3.png)  
+
+- **Quantifying Antisemitism on Twitter**  
+  Explored **text classification challenges and annotation schemes** to analyze antisemitic content on Twitter using **natural language processing (NLP) techniques**.  
+
+- **Buckling Analysis of Functionally Graded (FG) Nanoplates**  
+  - Studied **buckling behavior** using the **finite element method (FEM)** based on **nonlocal elasticity theory**.  
+
+- **Vibrational Analysis of FG Nanoplates**  
+  - Investigated **nanoplate vibrations** using the **couple stress theory** and **finite element modeling**.  
+
+- **Battery Bus Project – University of Tehran**  
+  Contributed to the design and optimization of a **battery-powered bus**, focusing on **energy efficiency and structural durability**.  
+
+- **Effect of Boundary Conditions on Composite Skew Nanoplates**  
+  - Examined how different **boundary conditions** influence the **natural frequency** of composite skew nanoplates embedded in an **elastic medium** using the **Generalized Differential Quadrature (GDQ) method**.  
+
+- **Elastic-Plastic Buckling of Circular Plates**  
+  - Modeled **elastic-plastic buckling behavior** in circular plates with variable thickness, evaluating key **structural parameters** affecting stability.  
 
 ---
 
