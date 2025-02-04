@@ -88,11 +88,10 @@ I have extensive experience in **computational modeling, laser vibrometry, and m
 - **Wave Analysis of Thick Rectangular Graphene Sheets: Thickness and Small-Scale Effects on Natural and Bifurcation Frequencies**. *Sustainability*, 2022.  
 
 ---
-
 ## Academic Experience  
 
 - **Course Project:** Predicting soil parameters with Counter-propagation Method.
-- ![P1](Splitted_OR10_Prediction+test.jpg)  
+ ![P1](Splitted_OR10_Prediction+test.jpg)  
 - **Course Project:** Predicting Car Accident Severity in Vermont using Environmental and Ambient Factors.  
 - **Course Project:** Spatio-temporal modeling of malaria prevalence using the R-INLA package and the SPDE approach.  
 - **Course Project:** Study of Phonon dispersion diagram of Graphene sheet using Molecular Dynamics: Impact of Temperature.  
