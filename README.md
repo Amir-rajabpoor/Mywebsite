@@ -61,7 +61,7 @@
 ## Certifications  
 - **Complex Systems and Data Science**  
 
-![Certificate](C1.jpg)  
+<img src="C1.jpeg" alt="Certificate" width="300"/>
 
 ---
 
