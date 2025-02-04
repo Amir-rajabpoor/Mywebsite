@@ -92,9 +92,10 @@ I have extensive experience in **computational modeling, laser vibrometry, and m
 
 - **Course Project:** Predicting soil parameters with Counter-propagation Method.
  ![P1](Splitted_OR10_Prediction+test.jpg)  
-- **Course Project:** Predicting Car Accident Severity in Vermont using Environmental and Ambient Factors.  
+- **Course Project:** Predicting Car Accident Severity in Vermont using Environmental and Ambient Factors. 
 - **Course Project:** Spatio-temporal modeling of malaria prevalence using the R-INLA package and the SPDE approach.  
-- **Course Project:** Study of Phonon dispersion diagram of Graphene sheet using Molecular Dynamics: Impact of Temperature.  
+- **Course Project:** Study of Phonon dispersion diagram of Graphene sheet using Molecular Dynamics: Impact of Temperature.
+-- This project employs multiscale simulation techniques within the LAMMPS molecular dynamics framework to find the band structure, exploring the influence of temperature on  graphene's phonon dispersion. Utilizing a Tersoff potential, the study investigates vibrational properties, emphasizing the effect of temperature variations 
 - **Course Project:** An Attempt at Quantifying Antisemitism on Twitter; an Exploration in the Perils of Text Classification and Annotation Schemes.  
 - **Investigation of buckling of FG Nano-plates** using the finite element method based on nonlocal theory.  
 - **Investigation of vibrations of FG Nano-plates** based on couple stress theory and using the finite element method.  
