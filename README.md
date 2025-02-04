@@ -66,7 +66,7 @@ I have extensive experience in **computational modeling, laser vibrometry, and m
 ## Certifications  
 - **Complex Systems and Data Science**  
 
-![Certificate](certificate.jpg)  
+![Certificate](C1.jpg)  
 
 ---
 
