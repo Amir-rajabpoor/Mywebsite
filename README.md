@@ -52,6 +52,7 @@
 
 ## CERTIFICATE
 -	Complex Systems and Data Science
+ /C1.jpg
 ## Talks & Lectures
 - Poster Presentaion - Structural Health Monitoring, Fall 2021
 - Topological Phononic Crystal - Structural Health Monitoring, Fall 2021
