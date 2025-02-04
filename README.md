@@ -73,12 +73,12 @@
 - Investigation of the vibrations of FG Nano-plates based on couple stress theory and using finite element method.  
 - Working on the battery bus project at the University of Tehran.  
 - Investigation of the effect of different boundary conditions in natural frequency of composite Skew Nanoplates embedded in elastic medium using GDQ method.  
-- Modeling the elastic plastic buckling of circular plates with variable thickness and investigating different parameters.  
-
-SKILLS 
-•	Experienced with Laser Vibrometer in Complex of metamaterials Lab
-•	Experienced in Machine Learning tools such as TensorFlow and PyTorch
-•	Proficient in COMSOL, Ansys, SolidWorks, Abaqus  
+- Modeling the elastic plastic buckling of circular plates with variable thickness and investigating different parameters.
+- 
+## SKILLS
+-	Experienced with Laser Vibrometer in Complex of metamaterials Lab
+-	Experienced in Machine Learning tools such as TensorFlow and PyTorch
+-	Proficient in COMSOL, Ansys, SolidWorks, Abaqus  
 •	Skilled in MATLAB, Python
 •	Experienced with Molecular Dynamics
 •	Experienced in the fields of MEMS & NEMS  
