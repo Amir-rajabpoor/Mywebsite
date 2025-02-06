@@ -5,3 +5,4 @@ show_downloads: False
 theme: jekyll-theme-minimal
 github:
   is_project_page: false
+include: ["style.css"]
