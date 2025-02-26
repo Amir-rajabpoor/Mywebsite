@@ -142,13 +142,3 @@ I am a **Ph.D. researcher in Mechanical Engineering** at the **University of Ver
 - Familiar with **CNC Machines**  
 
 ---
-
-## Projects  
-
-### **Data-Driven EEG Band Discovery with Decision Trees**  
-📄 [Publication]  
-
-![EEG Band Discovery](assets/img/eeg_band_discovery.jpeg)  
-
-### **Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales**  
-📄 [Publication]  
