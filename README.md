@@ -1,19 +1,14 @@
 # Amir Rajabpoor Alisepahi  
-
-## Acoustic Engineer  
-
-#### Technical Skills:  MATLAB, Python, FEM, Phononic Crystal  
-
-# Amir Rajabpoor Alisepahi  
 **Ph.D. Researcher | Mechanical Engineering | University of Vermont**  
 
-## About Me  
+## Pioneering the Future of Metamaterials  
 Imagine a world where **materials control and manipulate waves** with precision—silencing unwanted noise, harvesting ambient vibrations for energy, or guiding sound and mechanical waves with zero loss. My research is dedicated to developing **intelligent metamaterials** that make this vision a reality, with applications in **aerospace, robotics, biomedical engineering, and renewable energy**.  
 
 By integrating **finite element modeling (FEM), vibrational analysis, and machine learning**, I design **next-generation metamaterials** that enable **wave filtering, vibration isolation, and energy-efficient devices**. My expertise spans **computational modeling, laser vibrometry, and metamaterial fabrication**, ensuring that my theoretical innovations translate into practical solutions.  
 
-Whether it's **self-adapting noise barriers**, **ultra-efficient energy harvesters**, or **precision-engineered waveguides**, my work pushes the boundaries of material science to shape the future of technology.  
+I also apply **data science and machine learning** to accelerate the **discovery of novel materials**, using computational methods to predict material properties, optimize metamaterial structures, and uncover new possibilities in **topological and energy-efficient designs**.  
 
+I am a **Ph.D. researcher in Mechanical Engineering** at the **University of Vermont**, specializing in **metamaterials, phononic crystals, and wave propagation**. My work delves into **topological phononic band structures, mechanical wave control, and computational solid mechanics**, bridging the gap between theory and experimentation to unlock the full potential of engineered materials.  
 
 
 ----
