@@ -5,9 +5,11 @@
 #### Technical Skills:  MATLAB, Python, FEM, Phononic Crystal  
 
 ## About Me  
-I am a **Ph.D. researcher in Mechanical Engineering** at the **University of Vermont**, specializing in **metamaterials, phononic crystals, and wave propagation**. My research focuses on **topological phononic band structures, mechanical wave control, and computational solid mechanics**. With expertise in **finite element modeling (FEM), vibrational analysis, and machine learning applications in engineering**, I strive to bridge the gap between theory and experimentation.  
+Imagine a world where materials can control and manipulate waves with unprecedented precision—silencing unwanted noise, harvesting ambient vibrations for energy, or guiding sound and mechanical waves with zero loss. My research focuses on developing intelligent metamaterials that make this possible, with applications in aerospace, robotics, biomedical engineering, and renewable energy.
 
-I have extensive experience in **computational modeling, laser vibrometry, and metamaterial fabrication**. My goal is to **develop novel metamaterial structures for applications in energy harvesting, wave filtering, and noise reduction**. 
+By leveraging finite element modeling (FEM), vibrational analysis, and machine learning, I design metamaterials that redefine wave filtering, vibration isolation, and energy-efficient devices. My expertise spans computational modeling, laser vibrometry, and metamaterial fabrication, ensuring that my theoretical innovations translate into real-world applications. Whether it’s self-adapting noise barriers, ultra-efficient energy harvesters, or precision-engineered waveguides, my goal is to engineer materials that push the boundaries of technology.
+
+I am a Ph.D. researcher in Mechanical Engineering at the University of Vermont, specializing in metamaterials, phononic crystals, and wave propagation. My work delves into topological phononic band structures, mechanical wave control, and computational solid mechanics, bridging the gap between theory and experimentation to unlock the full potential of engineered materials.
 
 ----
 
