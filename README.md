@@ -4,12 +4,17 @@
 
 #### Technical Skills:  MATLAB, Python, FEM, Phononic Crystal  
 
+# Amir Rajabpoor Alisepahi  
+**Ph.D. Researcher | Mechanical Engineering | University of Vermont**  
+
 ## About Me  
-Imagine a world where materials can control and manipulate waves with unprecedented precision—silencing unwanted noise, harvesting ambient vibrations for energy, or guiding sound and mechanical waves with zero loss. My research focuses on developing intelligent metamaterials that make this possible, with applications in aerospace, robotics, biomedical engineering, and renewable energy.
+Imagine a world where **materials control and manipulate waves** with precision—silencing unwanted noise, harvesting ambient vibrations for energy, or guiding sound and mechanical waves with zero loss. My research is dedicated to developing **intelligent metamaterials** that make this vision a reality, with applications in **aerospace, robotics, biomedical engineering, and renewable energy**.  
 
-By leveraging finite element modeling (FEM), vibrational analysis, and machine learning, I design metamaterials that redefine wave filtering, vibration isolation, and energy-efficient devices. My expertise spans computational modeling, laser vibrometry, and metamaterial fabrication, ensuring that my theoretical innovations translate into real-world applications. Whether it’s self-adapting noise barriers, ultra-efficient energy harvesters, or precision-engineered waveguides, my goal is to engineer materials that push the boundaries of technology.
+By integrating **finite element modeling (FEM), vibrational analysis, and machine learning**, I design **next-generation metamaterials** that enable **wave filtering, vibration isolation, and energy-efficient devices**. My expertise spans **computational modeling, laser vibrometry, and metamaterial fabrication**, ensuring that my theoretical innovations translate into practical solutions.  
 
-I am a Ph.D. researcher in Mechanical Engineering at the University of Vermont, specializing in metamaterials, phononic crystals, and wave propagation. My work delves into topological phononic band structures, mechanical wave control, and computational solid mechanics, bridging the gap between theory and experimentation to unlock the full potential of engineered materials.
+Whether it's **self-adapting noise barriers**, **ultra-efficient energy harvesters**, or **precision-engineered waveguides**, my work pushes the boundaries of material science to shape the future of technology.  
+
+
 
 ----
 
@@ -55,13 +60,12 @@ I am a Ph.D. researcher in Mechanical Engineering at the University of Vermont, 
 
 ---
 
-## Research Interests  
-- Metamaterials  
-- Wave propagation  
-- Vibrational analysis  
-- Mechanical simulations  
-- FEM  
-- Data Science  
+## Research Focus  
+- 🔹 **Metamaterials & Phononic Crystals** – Designing materials with engineered bandgaps to manipulate wave propagation.  
+- 🔹 **Topological Phononic Band Structures** – Exploring robust wave transport for advanced engineering applications.  
+- 🔹 **Mechanical Wave Control** – Developing innovative solutions for noise reduction, vibration isolation, and signal processing.  
+- 🔹 **Computational & Experimental Solid Mechanics** – Bridging theory and practice using FEM, laser vibrometry, and machine learning.  
+- 🔹 **Data-Driven Materials Discovery** – Leveraging data science and AI to predict, optimize, and design new metamaterials.  
 
 ---
 
