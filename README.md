@@ -1,144 +1,159 @@
-# Amir Rajabpoor Alisepahi  
-**Ph.D. Researcher | Mechanical Engineering | University of Vermont**  
+# Amir Rajabpoor Alisepahi
 
-## Pioneering the Future of Metamaterials  
-Imagine a world where **materials control and manipulate waves** with precision—silencing unwanted noise, harvesting ambient vibrations for energy, or guiding sound and mechanical waves with zero loss. My research is dedicated to developing **intelligent metamaterials** that make this vision a reality, with applications in **aerospace, robotics, biomedical engineering, and renewable energy**.  
-
-By integrating **finite element modeling (FEM), vibrational analysis, and machine learning**, I design **next-generation metamaterials** that enable **wave filtering, vibration isolation, and energy-efficient devices**. My expertise spans **computational modeling, laser vibrometry, and metamaterial fabrication**, ensuring that my theoretical innovations translate into practical solutions.  
-
-I also apply **data science and machine learning** to accelerate the **discovery of novel materials**, using computational methods to predict material properties, optimize metamaterial structures, and uncover new possibilities in **topological and energy-efficient designs**.  
-
-I am a **Ph.D. researcher in Mechanical Engineering** at the **University of Vermont**, specializing in **metamaterials, phononic crystals, and wave propagation**. My work delves into **topological phononic band structures, mechanical wave control, and computational solid mechanics**, bridging the gap between theory and experimentation to unlock the full potential of engineered materials.  
-
-
-----
-
-## Work Experience  
-
-### **University of Vermont - Research Assistant**  
-📅 *Jan 2022 – Present*  
-- Conducted vibrational analysis using a laser vibrometer on metamaterials fabricated as part of research projects.  
-- Designed and tested experimental mechanical metamaterials, integrating theoretical and simulation models with practical outcomes.  
-- Teaching assistant in the course *Energy Methods in Solid Mechanics*.  
-
-### **FELEZ TABAN Construction Co. - Mechanical Engineer**  
-📅 *Mar 2016 – Dec 2021*  
-- Managed the production line.  
-- Inspected and monitored work areas, examined tools and equipment, and provided employee safety training.  
-- Negotiated material prices with suppliers and coordinated inventory or cost control programs, ensuring accuracy in billing and receiving.  
-- Attended meetings and discussed project details with clients and contractors.  
-- Prepared isometric drawings.  
-
-### **University of Tehran - Teaching Assistant (Workshop Tools)**  
-📅 *Feb 2014 – Feb 2016*  
-- Prepared teaching materials.  
-- Provided students with safety instructions.  
-- Assisted in solving problems in class.  
-- Taught students how to work with different equipment.  
-- Worked with CNC machines and simulated processes.  
+**Mechanical & Acoustic Engineer**  
+Metamaterials · Wave Propagation · Phononic Crystals · Data-Driven Modeling
 
 ---
 
-## Education  
+## Contact & Links
 
-### **University of Vermont**  
-🎓 *Ph.D. in Mechanical Engineering* (Feb 2022 – Present)  
-📌 *Project:* Wave propagation in acoustic metamaterials  
-
-### **University of Tehran**  
-🎓 *M.Sc. in Mechanical Engineering* (Feb 2014 – Feb 2016)  
-📌 *Project:* Vibration and Buckling Analysis of FG Nanoplates  
-
-### **Razi University of Kermanshah**  
-🎓 *B.Sc. in Mechanical Engineering* (Sep 2006 – Sep 2011)  
-📌 *Project:* Effect of Low Velocity Impact in Functionally Graded Circular Plates  
+- Email: [amir.rajabpoor@uvm.edu](mailto:amir.rajabpoor@uvm.edu)
+- Google Scholar: <!-- add your URL here -->
+- LinkedIn: <!-- add your URL here -->
+- GitHub: [https://github.com/amir-rajabpoor](https://github.com/amir-rajabpoor)
+- CV: <!-- link to a PDF in this repo, e.g. `/files/Amir_Rajabpoor_CV.pdf` -->
 
 ---
 
-## Research Focus  
-- 🔹 **Metamaterials & Phononic Crystals** – Designing materials with engineered bandgaps to manipulate wave propagation.  
-- 🔹 **Topological Phononic Band Structures** – Exploring robust wave transport for advanced engineering applications.  
-- 🔹 **Mechanical Wave Control** – Developing innovative solutions for noise reduction, vibration isolation, and signal processing.  
-- 🔹 **Computational & Experimental Solid Mechanics** – Bridging theory and practice using FEM, laser vibrometry, and machine learning.  
-- 🔹 **Data-Driven Materials Discovery** – Leveraging data science and AI to predict, optimize, and design new metamaterials.  
+## About
+
+I am a Ph.D. researcher in Mechanical Engineering at the University of Vermont, specializing in **mechanical and phononic metamaterials, wave propagation, and topological phononic band structures**. My work combines:
+
+- Analytical modeling of lattice systems (including long-range coupling and topological edge states),
+- Finite-element and multiscale simulations,
+- Experimental validation using 3D-printed prototypes and laser vibrometry.
+
+I am particularly interested in using **engineered materials to control mechanical and acoustic waves** for applications such as **noise and vibration control, structural health monitoring, and energy/heat management**. I also work with **data science and machine learning** tools to extract structure–property relationships from complex physical systems.
 
 ---
 
-## Certifications  
-- **Complex Systems and Data Science**  
+## Research & Technical Focus
 
-![Certificate](C1.jpg)  
-
----
-
-## Talks & Lectures  
-- **Poster Presentation** - Structural Health Monitoring, Fall 2021  
-- **Topological Phononic Crystal** - Structural Health Monitoring, Fall 2021  
+- **Mechanical / Phononic Metamaterials**: Design and analysis of lattices with nontrivial band topology, in-gap edge and domain-wall states, and beyond–nearest-neighbor interactions.
+- **Wave Propagation & Vibration**: Band structure calculations, dispersion analysis, and localization phenomena in periodic and quasi-periodic media.
+- **Computational Mechanics**: FEM-based vibrational and buckling analysis of micro- and nano-scale structures; nonlocal elasticity and couple-stress theories.
+- **Data Science & ML in Engineering**: Predictive modeling and classification (e.g., soil properties, accident severity, environmental and biomedical data) using tools such as TensorFlow, PyTorch, and R-INLA.
+- **Experimental Methods**: Laser vibrometry, 3D printing of metamaterial structures, and validation of numerical models against measurements.
 
 ---
 
-## Publications  
+## Selected Publications
 
-- **Rajabpoor Alisepahi, A.; Ma, J.** In-Gap Edge and Domain-Wall States in Largely Perturbed Phononic Su–Schrieffer–Heeger Lattices. *Crystals*, 2024, 14, 102.  
-- **Rajabpoor Alisepahi, A., Sarkar, S., Sun, K. et al.** Breakdown of conventional winding number calculation in one-dimensional lattices with interactions beyond nearest neighbors. *Commun Phys* 6, 334 (2023).  
-- **SM Mousavi Janbeh Sarayi, A. Rajabpoor Alisepahi, A Bahrami.** Wave analysis of thick rectangular Graphene sheets: Thickness and small-scale effects on natural and bifurcation frequencies. *Sustainability*, 2022, 14 (19), 12329.  
-- **Daneshmehr, A., A. Rajabpoor, and A. Hadi.** Size-dependent free vibration analysis of Nano plates made of functionally graded materials based on nonlocal elasticity theory with high-order theories. *International Journal of Engineering Science*, 2015.  
-- **Daneshmehr, A.R., M. Mohammad Abadi, and A. Rajabpoor.** Thermal effect on static bending, vibration, and buckling of Reddy beam based on modified couple stress theory. *Applied Mechanics and Materials*, 2013.  
-- **Daneshmehr, A. and A. Rajabpoor.** Stability of size-dependent functionally graded Nano plates based on nonlocal elasticity and higher-order plate theories with different boundary conditions. *International Journal of Engineering Science*, 2014.  
-- **Ali Zargaripoor, Alireza Daneshmehr, Seyed Imman Isaac Hosseini, Amir Rajabpoor.** Free Vibration Analysis of Nano plates Made of Functionally Graded Materials Based on Nonlocal Elasticity Theory Using Finite Element Method.  
-- **Wave Analysis of Thick Rectangular Graphene Sheets: Thickness and Small-Scale Effects on Natural and Bifurcation Frequencies**. *Sustainability*, 2022.  
+- **In-Gap Edge and Domain-Wall States in Largely Perturbed Phononic SSH Lattices**  
+  A. Rajabpoor Alisepahi, J. Ma. *Crystals* 14, 102 (2024).
+
+- **Breakdown of Conventional Winding Number Calculation in 1D Lattices with Beyond–Nearest-Neighbor Interactions**  
+  A. Rajabpoor Alisepahi, S. Sarkar, K. Sun, J. Ma, et al. *Communications Physics* 6, 334 (2023).
+
+- **Wave Analysis of Thick Rectangular Graphene Sheets: Thickness and Small-Scale Effects on Natural and Bifurcation Frequencies**  
+  S.M. Mousavi Janbeh Sarayi, A. Rajabpoor Alisepahi, A. Bahrami. *Sustainability* 14(19), 12329 (2022).
+
+- **Size-Dependent Free Vibration of Functionally Graded Nanoplates Based on Nonlocal Elasticity and High-Order Theories**  
+  A. Daneshmehr, A. Rajabpoor, A. Hadi. *International Journal of Engineering Science* (2015).
+
+For a more complete publication list, please see my Google Scholar profile.
 
 ---
-## Academic Experience  
 
-- **Predicting Soil Parameters Using the Counter-Propagation Method**  
-  Developed a machine learning model to predict soil parameters using counter-propagation neural networks.  
-  ![P1](Splitted_OR10_Prediction+test.jpg)  
+## Experience
 
-- **Predicting Car Accident Severity in Vermont**  
-  Analyzed the severity of car accidents based on **environmental and ambient factors** using machine learning techniques.  
+### University of Vermont – Research Assistant  
+**Feb 2022 – Present | Burlington, VT, USA**
 
-- **Spatio-Temporal Modeling of Malaria Prevalence**  
-  Utilized the **R-INLA package and SPDE approach** to develop predictive models for malaria spread.  
+- Develop analytical and numerical models for mechanical and phononic metamaterials, including lattices with long-range couplings and topological edge states.
+- Perform vibrational analysis of 3D-printed metamaterial samples using **laser vibrometry**, comparing results with FEM and analytical predictions.
+- Implement computational workflows in **COMSOL, MATLAB, and Python** for band-structure, dispersion, and modal analysis.
+- Support teaching and mentoring activities, including serving as a Teaching Assistant for **Energy Methods in Solid Mechanics** and onboarding undergraduate researchers.
+
+### FELEZ TABAN Construction Co. – Mechanical Engineer  
+**Mar 2016 – Dec 2021**
+
+- Managed mechanical aspects of production lines, including inspection, equipment monitoring, and safety training.
+- Coordinated with suppliers and contractors on material specifications, pricing, and inventory/cost control.
+- Produced and interpreted engineering drawings and **isometric layouts**, and supported field problem-solving during construction.
+
+### University of Tehran – Teaching Assistant (Workshop Tools)  
+**Feb 2014 – Feb 2016**
+
+- Prepared teaching materials and safety instructions for mechanical workshops.
+- Trained students on the use of **CNC machines** and machining equipment.
+- Assisted students with practical exercises and hands-on projects.
+
+---
+
+## Education
+
+### Ph.D. in Mechanical Engineering – University of Vermont  
+**Feb 2022 – Present**
+
+- Dissertation focus: **Wave propagation and topological phenomena in acoustic/mechanical metamaterials**.
+- Emphasis on phononic crystals, edge/localized states, nonlinear effects, and experimental validation.
+
+### M.Sc. in Mechanical Engineering – University of Tehran  
+**Feb 2014 – Feb 2016**
+
+- Thesis: **Vibration and Buckling Analysis of Functionally Graded Nanoplates** using nonlocal elasticity and high-order plate theories.
+
+### B.Sc. in Mechanical Engineering – Razi University of Kermanshah  
+**Sep 2006 – Sep 2011**
+
+- Project: **Effect of Low-Velocity Impact on Functionally Graded Circular Plates**.
+
+---
+
+## Selected Academic & Data-Science Projects
 
 - **Phonon Dispersion in Graphene Sheets: Impact of Temperature**  
-  - Employed **multiscale simulation techniques** within the **LAMMPS molecular dynamics framework** to compute the phonon band structure of graphene.  
-  - Investigated the effect of **temperature variations** on phonon dispersion using the **Tersoff potential**.  
-  - Examined vibrational properties and phononic behavior at different thermal conditions.  
-  ![P3](P3.png)  
+  Multiscale simulations in LAMMPS to compute phonon band structures of graphene and analyze temperature-driven changes in dispersion using Tersoff potentials.
+
+- **Predicting Soil Parameters Using Counter-Propagation Neural Networks**  
+  Developed ML models to estimate geotechnical soil properties from limited experimental inputs.
+
+- **Predicting Car Accident Severity in Vermont**  
+  Built classification models using environmental and contextual features to study accident severity patterns.
+
+- **Spatio-Temporal Modeling of Malaria Prevalence**  
+  Applied **R-INLA and SPDE** techniques to model spatial and temporal trends in malaria incidence.
 
 - **Quantifying Antisemitism on Twitter**  
-  Explored **text classification challenges and annotation schemes** to analyze antisemitic content on Twitter using **natural language processing (NLP) techniques**.  
-
-- **Buckling Analysis of Functionally Graded (FG) Nanoplates**  
-  - Studied **buckling behavior** using the **finite element method (FEM)** based on **nonlocal elasticity theory**.  
-
-- **Vibrational Analysis of FG Nanoplates**  
-  - Investigated **nanoplate vibrations** using the **couple stress theory** and **finite element modeling**.  
-
-- **Battery Bus Project – University of Tehran**  
-  Contributed to the design and optimization of a **battery-powered bus**, focusing on **energy efficiency and structural durability**.  
-
-- **Effect of Boundary Conditions on Composite Skew Nanoplates**  
-  - Examined how different **boundary conditions** influence the **natural frequency** of composite skew nanoplates embedded in an **elastic medium** using the **Generalized Differential Quadrature (GDQ) method**.  
-
-- **Elastic-Plastic Buckling of Circular Plates**  
-  - Modeled **elastic-plastic buckling behavior** in circular plates with variable thickness, evaluating key **structural parameters** affecting stability.  
+  Explored NLP pipelines and annotation strategies for text classification of hateful content.
 
 ---
 
-## Skills  
+## Skills
 
-- Experienced with **Laser Vibrometer** in Complex of Metamaterials Lab  
-- Experienced in **Machine Learning tools** such as TensorFlow and PyTorch  
-- Proficient in **COMSOL, Ansys, SolidWorks, Abaqus**  
-- Skilled in **MATLAB, Python**  
-- Experienced with **Molecular Dynamics**  
-- Knowledgeable in **MEMS & NEMS**  
-- Proficient in **numerical methods** (FEM, GDQ methods)  
-- Knowledgeable in **Mechanical Equipment Design and Functional Analysis**  
-- Skilled in **Interpreting Engineering Standards, Specifications, and Drawings**  
-- Familiar with **Industrial Drawing and Relevant Standards**  
-- Familiar with **CNC Machines**  
+**Modeling & Simulation**
+
+- Finite Element Methods: COMSOL, Ansys, Abaqus, custom MATLAB/Python codes  
+- Nonlocal elasticity, couple-stress theories, and GDQ methods  
+- Band-structure and dispersion analysis in periodic lattices
+
+**Experimental & Prototyping**
+
+- Laser vibrometer measurements of metamaterial samples  
+- 3D printing and experimental setup design for mechanical/acoustic tests  
+- Mechanical equipment design and interpretation of engineering drawings
+
+**Programming & Data Science**
+
+- MATLAB, Python  
+- TensorFlow, PyTorch, scikit-learn  
+- R, R-INLA, SPDE-based modeling
+
+**Domain Knowledge**
+
+- Mechanical and phononic metamaterials  
+- Wave propagation, vibration, and stability of micro/nano structures  
+- MEMS & NEMS concepts  
+- Industrial drawing and CNC machining fundamentals
 
 ---
+
+## Talks and Presentations
+
+- Poster Presentation – Structural Health Monitoring, Fall 2021  
+- “Topological Phononic Crystal” – Structural Health Monitoring, Fall 2021
+
+---
+
+*Hosted on GitHub Pages — Theme by orderedlist*
