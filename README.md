@@ -11,7 +11,7 @@ Metamaterials · Wave Propagation · Phononic Crystals · Data-Driven Modeling
 - Google Scholar: <!-- add your URL here -->
 - LinkedIn: <!-- add your URL here -->
 - GitHub: [https://github.com/amir-rajabpoor](https://github.com/amir-rajabpoor)
-- CV:  `/files/Amir_CV.pdf
+- CV:  `/main/Amir_CV.pdf
 
 ---
 
